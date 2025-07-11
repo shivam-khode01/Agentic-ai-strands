@@ -1,5 +1,5 @@
-# strandsAgents-persistent
-# TASK 1
+# Agentic ai-strands
+# level 1
 
 A basic AI agent implementation using the Strands framework with Ollama integration. This project demonstrates how to create a simple AI agent powered by a local LLM (Large Language Model) that can respond to user queries.
 
